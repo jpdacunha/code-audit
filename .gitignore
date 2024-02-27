@@ -1,1 +1,3 @@
 /sonar-server/logs/*.log
+/sonar-server/data/*
+!/sonar-server/data/.gitkeep

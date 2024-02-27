@@ -18,9 +18,9 @@ services:
         networks:
             - sonarnet
         volumes:   
-            - /home/dev/Sonar/sonar-server/extensions:/opt/sonarqube/extensions
-            - /home/dev/Sonar/sonar-server/logs:/opt/sonarqube/logs
-            - /home/dev/Sonar/sonar-server/data:/opt/sonarqube/data
+            - ./extensions:/opt/sonarqube/extensions
+            - ./logs:/opt/sonarqube/logs
+            - ./data:/opt/sonarqube/data
 
     db-postgresql:
         image: postgres:10.4

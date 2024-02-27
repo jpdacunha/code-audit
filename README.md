@@ -2,6 +2,12 @@
 
 This docker compose is used to audit code localy using the sonar stack
 
+## Setup
+After the chekout in order to properly setup the environment please execute 
+`
+./setup.sh
+`
+
 ## Analyzing local code
 Sonar scanner is configured to use the path configured in the .env file.
 
