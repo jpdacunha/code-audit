@@ -1,8 +1,0 @@
-findbugs,false,sonar-findbugs-plugin-3.11.1.jar|c9586d90652066b6c83db6723ac0ca72
-java,true,sonar-java-plugin-5.14.0.18788.jar|b85e79af43c5fd9d871f67c00ce3c18d
-cssfamily,false,sonar-css-plugin-1.1.1.1010.jar|489f1b0ff745f9a744c23a97445caf98
-smells,false,qualinsight-sonarqube-smell-plugin-4.0.0.jar|d0418e95f362980bf0a9f41386ec0a16
-pmd,false,sonar-pmd-plugin-3.2.1.jar|8793e79f24bd4ccfa32398e5e4cb331c
-typescript,true,sonar-typescript-plugin-2.1.0.4359.jar|1b0c24e5d9a55450dfadcd0a2c8bc5c8
-checkstyle,false,checkstyle-sonar-plugin-4.27.jar|9ace73ff31c6bbd917ac835a38896ab1
-javascript,true,sonar-javascript-plugin-6.1.0.11503.jar|a2b6a8802525720c8af2ca4fa85a2513
